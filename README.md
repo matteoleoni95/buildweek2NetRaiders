@@ -1,6 +1,6 @@
 Web Application Exploit SQLi 
 Traccia Giorno 1:
-Utilizzando le tecniche viste nelle lezione teoriche, sfruttare la vulnerabilità SQL injection presente sulla Web Application DVWA per recuperare in chiaro la password dell’utente Gordon Brown. 
+- Utilizzando le tecniche viste nelle lezione teoriche, sfruttare la vulnerabilità SQL injection presente sulla Web Application DVWA per recuperare in chiaro la password dell’utente Gordon Brown. 
 NB: non usare tool automatici come sqlmap. È ammesso l’uso di repeater burpsuite. 
 Requisiti laboratorio Giorno 1:
 Livello difficoltà DVWA: LOW 
@@ -15,8 +15,8 @@ Bonus:
 
 Web Application Exploit XSS 
 Traccia Giorno 2:
-Utilizzando le tecniche viste nelle lezione teoriche, sfruttare la vulnerabilità XSS persistente presente sulla Web Application DVWA al fine simulare il furto di una sessione di un utente lecito del sito, inoltrando i cookie «rubati» ad Web server sotto il vostro controllo. 
-Spiegare il significato dello script utilizzato. 
+- Utilizzando le tecniche viste nelle lezione teoriche, sfruttare la vulnerabilità XSS persistente presente sulla Web Application DVWA al fine simulare il furto di una sessione di un utente lecito del sito, inoltrando i cookie «rubati» ad Web server sotto il vostro controllo. 
+- Spiegare il significato dello script utilizzato. 
 Requisiti laboratorio Giorno 2: 
 Livello difficoltà DVWA: LOW 
 IP Kali Linux: 192.168.109.100/24 
