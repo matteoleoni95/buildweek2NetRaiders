@@ -7,11 +7,11 @@ Livello difficoltà DVWA: LOW
 IP Kali Linux: 192.168.66.110/24 
 IP Metasploitable: 192.168.66.120/24
 
-Bonus
--Replicare tutto a livello medium
--Verificare se è possibile inserire un utente tramite SQL injection
--Recuperare informazioni vitali da altri db collegati
--Creare una guida illustrata per spiegare ad un utente medio come replicare questo attacco.
+Bonus:
+- Replicare tutto a livello medium
+- Verificare se è possibile inserire un utente tramite SQL injection
+- Recuperare informazioni vitali da altri db collegati
+- Creare una guida illustrata per spiegare ad un utente medio come replicare questo attacco.
 
 Web Application Exploit XSS 
 Traccia Giorno 2:
@@ -23,11 +23,11 @@ IP Kali Linux: 192.168.109.100/24
 IP Metasploitable: 192.168.109.150/24 
 I cookie dovranno essere ricevuti su un Web Server in ascolto sulla porta 5555
 
-Bonus
--Replicare tutto a livello medium
--fare il dump completo, cookie, versione browser, ip, data
--Replicare tutto a livello high
--Creare una guida illustrata per spiegare ad un utente medio come replicare questo attacco.
+Bonus:
+- Replicare tutto a livello medium
+- fare il dump completo, cookie, versione browser, ip, data
+- Replicare tutto a livello high
+- Creare una guida illustrata per spiegare ad un utente medio come replicare questo attacco.
 
 System Exploit BOF Traccia Giorno 3: 
 https://drive.google.com/file/d/1nEM_FV5zFHj4hw9_Ya1PUP_xf5bLGy0I/view 
@@ -36,9 +36,9 @@ Leggete attentamente il programma in allegato. Viene richiesto di:
 • Riprodurre ed eseguire il programma nel laboratorio. Le vostre ipotesi sul funzionamento erano corrette? 
 • Modificare il programma affinché si verifichi un errore di segmentazione
 
-Bonus
--Inserire controlli di input 
--Creare un menù per far decidere all’utente se avere il programma che va in errore oppure quello corretto
+Bonus:
+- Inserire controlli di input 
+- Creare un menù per far decidere all’utente se avere il programma che va in errore oppure quello corretto
 
 Exploit Metasploitable con Metasploit 
 Traccia Giorno 4: 
